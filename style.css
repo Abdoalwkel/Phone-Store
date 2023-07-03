@@ -333,25 +333,25 @@ width: 30px;
     
     }
 
-    @media (min-width:320px) and (max-width:575px){
+  @media (min-width:320px) and (max-width:575px){
 
                                 .navBar img{
 
-                                    margin-left: 185px;
+                                    margin-left: 100px;
                                     width: 25px;
                                     height: 25px;
 
                                 }
 
                                 .navBar ul{
-                                    margin: 10px -90px;
+                                    margin: 10px -100px;
                         
                                             }
             
 
                                 .navBar ul li{
 
-                                    font-size: 14px;
+                                    font-size: 8px;
                                     font-weight: bold;
                                     
                                 }
@@ -390,7 +390,9 @@ width: 30px;
                             font-weight: bold;
                                 font-size: 14px;
                                     }
-                                
+                                    .icons{
+                                        width: 70%;
+                                    }
 
                                     .icons img{
 
